@@ -1,1 +1,2 @@
 git --int to intialize the new repository in working directory
+git add -A to add to all files in staging area
