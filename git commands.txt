@@ -1,2 +1,3 @@
 git --int to intialize the new repository in working directory
 git --commit -m "message" to commit the message
+git remote add origin 'raghava second branch'
